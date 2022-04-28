@@ -1,0 +1,5 @@
+install mono complete.
+open in terminal
+ch mod +x ./Filename.cs
+mcs .out:filename.exe filename.cs
+mono ./filename.exe

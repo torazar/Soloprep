@@ -1,0 +1,5 @@
+/home/torazar/Documents/College 1st Year./2nd semester/classes/1st one/obj/Debug/net6.0/1st one.csproj.AssemblyReference.cache
+/home/torazar/Documents/College 1st Year./2nd semester/classes/1st one/obj/Debug/net6.0/1st one.GeneratedMSBuildEditorConfig.editorconfig
+/home/torazar/Documents/College 1st Year./2nd semester/classes/1st one/obj/Debug/net6.0/1st one.AssemblyInfoInputs.cache
+/home/torazar/Documents/College 1st Year./2nd semester/classes/1st one/obj/Debug/net6.0/1st one.AssemblyInfo.cs
+/home/torazar/Documents/College 1st Year./2nd semester/classes/1st one/obj/Debug/net6.0/1st one.csproj.CoreCompileInputs.cache
